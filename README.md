@@ -15,11 +15,13 @@
 
 ## 실행 화면 (과제1)
 - 코드의 실행 스크린샷과 구현 내용 설명
-![실행화면](img/screenshot-1.png)
+<img width="801" height="485" alt="화면 캡처 2026-04-16 114854" src="https://github.com/user-attachments/assets/d8d6e0a7-44d2-4c76-91fa-d57d975c0594" />
+
 - 구현한 내용 (위 그림 참조)
-- UI 구성 : Label(앱 이름 표시), TextBox 2개(아이디, 패스워드)
-- Placeholder 표시 : 아이디와 패스워드 입력 힌트를 입력창 안에 회색으로 표시- 로그인 버튼 : 아이디와 패스워드가 모두 맞아야 로그인 허용
-- 
+- UI 구성 : Label(앱 이름 표시), Listview(파일 목록과 비교 결과 표시), Button(파일 선택과 비교 실행
+
+
+
 ## 실행 화면 (과제2)
 - 코드의 실행 스크린샷과 구현 내용 설명
 ![실행화면](img/screenshot-2.png)
